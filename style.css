@@ -101,3 +101,18 @@ footer {
     padding-bottom: 1%;
     text-align: center; 
 }
+footer h1{
+    margin: 0.5% 0%;
+}
+footer p{
+    margin: 0% 0%;
+    padding: 0% 0%;
+}
+
+.first {
+    background-color: rgba(132, 235, 15, 0.308);
+}
+
+.second {
+    background-color: rgba(147, 15, 235, 0.308);
+}
